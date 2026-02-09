@@ -1,0 +1,19 @@
+# Environment and secrets
+.env
+
+# Netlify
+.netlify
+
+# Hugo
+.hugo_build.lock
+resources
+
+# Dependencies
+node_modules
+
+# Build output
+public
+/docs
+
+# Non-source files
+*.pdf
