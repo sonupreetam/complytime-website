@@ -188,6 +188,6 @@ complyctl assess --c2p-mapping c2p-mapping.yaml --profile nist-800-53
 ## Learn More
 
 - [C2P Go Repository](https://github.com/complytime/compliance-to-policy-go)
-- [OSCAL Documentation](/docs/architecture/oscal/)
+- [OSCAL Documentation](/docs/concepts/oscal/)
 - [complyctl Documentation](/docs/projects/complyctl/)
 

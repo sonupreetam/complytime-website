@@ -1,7 +1,7 @@
 ---
-title: "Architecture"
-description: "Understand the ComplyTime architecture and how components work together."
-lead: "Learn how ComplyTime components integrate to automate compliance workflows."
+title: "Concepts"
+description: "Understand the core concepts, architecture, and standards behind ComplyTime."
+lead: "Learn the foundational concepts that power ComplyTime's compliance automation."
 date: 2024-01-01T00:00:00+00:00
 lastmod: 2024-12-24T00:00:00+00:00
 draft: false
@@ -169,7 +169,7 @@ ComplyTime is designed to be extended:
 
 ## Learn More
 
-- [OSCAL Deep Dive](/docs/architecture/oscal/)
+- [OSCAL Deep Dive](/docs/concepts/oscal/)
 - [C2P Framework](/docs/projects/compliance-to-policy/)
 - [Collector Architecture](/docs/projects/collector-components/)
 

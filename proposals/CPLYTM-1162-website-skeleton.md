@@ -87,7 +87,7 @@ complytime.dev/
 | Main navbar | Community | `/docs/contributing/`     |
 | Docs sidebar | Getting Started | `/docs/getting-started/` |
 | Docs sidebar | Projects  | `/docs/projects/`         |
-| Docs sidebar | Architecture | `/docs/architecture/`  |
+| Docs sidebar | Concepts | `/docs/concepts/`  |
 | Docs sidebar | Tutorials | `/docs/tutorials/`        |
 | Docs sidebar | Contributing | `/docs/contributing/`  |
 

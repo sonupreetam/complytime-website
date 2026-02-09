@@ -16,5 +16,5 @@ Welcome to the ComplyTime documentation. Here you'll find guides, tutorials, and
 
 - **[Getting Started](/docs/getting-started/)** - Set up your first ComplyTime project
 - **[Projects](/docs/projects/)** - Explore all ComplyTime tools and libraries
-- **[Architecture](/docs/architecture/)** - Understand how ComplyTime components work together
+- **[Concepts](/docs/concepts/)** - Understand the architecture and standards behind ComplyTime
 - **[Contributing](/docs/contributing/)** - Learn how to contribute to ComplyTime

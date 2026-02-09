@@ -125,5 +125,5 @@ complyctl c2p validate --mapping c2p-mapping.yaml
 
 - [complyctl GitHub Repository](https://github.com/complytime/complyctl)
 - [C2P Framework](/docs/projects/compliance-to-policy/)
-- [OSCAL Integration](/docs/architecture/oscal/)
+- [OSCAL Integration](/docs/concepts/oscal/)
 

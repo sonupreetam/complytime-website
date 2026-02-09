@@ -11,10 +11,10 @@
   url = "/docs/projects/"
 
 [[docs]]
-  name = "Architecture"
+  name = "Concepts"
   weight = 30
-  identifier = "architecture"
-  url = "/docs/architecture/"
+  identifier = "concepts"
+  url = "/docs/concepts/"
 
 [[docs]]
   name = "Tutorials"

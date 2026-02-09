@@ -36,4 +36,4 @@ The Compliance-to-Policy (C2P) framework bridges the gap between high-level comp
 
 - [compliance-to-policy Project Page](/docs/projects/compliance-to-policy/)
 - [C2P on GitHub](https://github.com/complytime/compliance-to-policy)
-- [OSCAL Overview](/docs/architecture/oscal/)
+- [OSCAL Overview](/docs/concepts/oscal/)

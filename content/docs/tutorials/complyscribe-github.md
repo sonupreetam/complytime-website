@@ -35,4 +35,4 @@ complyscribe is a CLI wrapper for Compliance-Trestle designed for CI/CD workflow
 
 - [complyscribe Project Page](/docs/projects/complyscribe/)
 - [complyscribe on GitHub](https://github.com/complytime/complyscribe)
-- [OSCAL Overview](/docs/architecture/oscal/)
+- [OSCAL Overview](/docs/concepts/oscal/)

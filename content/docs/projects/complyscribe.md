@@ -93,4 +93,4 @@ podman run -v $(pwd):/data -w /data quay.io/continuouscompliance/complyscribe:<t
 - [complyscribe GitHub Repository](https://github.com/complytime/complyscribe)
 - [complyscribe Documentation](https://complytime.github.io/complyscribe/)
 - [complyctl Integration](/docs/projects/complyctl/)
-- [OSCAL Overview](/docs/architecture/oscal/)
+- [OSCAL Overview](/docs/concepts/oscal/)
