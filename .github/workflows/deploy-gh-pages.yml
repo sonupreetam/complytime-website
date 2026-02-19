@@ -3,7 +3,9 @@ name: Deploy Hugo to GitHub Pages
 
 on:
   push:
-    branches: main
+    branches:
+      - main
+      - feat/demo-website
   workflow_dispatch:
 
 permissions:
@@ -37,7 +39,7 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: hugo --minify --gc --baseURL "https://complytime.dev/"
+        run: hugo --minify --gc --baseURL "https://sonupreetam.github.io/complytime-website/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b
